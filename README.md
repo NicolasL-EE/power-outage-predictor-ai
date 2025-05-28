@@ -1,6 +1,6 @@
 # power-outage-predictor-ai
 
-This project was a inspired by a first year course where a voltage power monitor was to be created in order to ...
+This project was a inspired course project where a voltage power monitor was to be created in order to ...
 provide power consumption to small hospitals in africa.
 
 The code featured in this repo is a seperate project and my first code to github
